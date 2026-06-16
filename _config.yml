@@ -22,12 +22,12 @@ repository               : "YimingLiao/YimingLiao.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
+  avatar           : ""
+  name             : "Yiming Liao"
+  pronouns         : "he/him" 
   bio              : "Short biography for the left-hand sidebar"
   location         : "Earth"
-  employer         : "Red Brick University"
+  employer         : "Totally Unempolyed"
   uri              : # URL
   email            : "none@example.org" 
 
