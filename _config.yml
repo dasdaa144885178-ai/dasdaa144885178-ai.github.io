@@ -13,7 +13,7 @@ title                    : "Yiming's Page"
 title_separator          : "-"
 name                     : &name "Yiming Liao"
 description              : &description ""   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      :  "http://dasdaa1448815178.ai.github.io"
+url                      :  "http://dasdaa1448815178-ai.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "dasdaa144885178-ai/dasdaa144885178-ai.github.io"
 
