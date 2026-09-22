@@ -30,13 +30,10 @@ Topics covered: Abelian varieties with complex multiplication, Tate's isogeny th
 [Lie Algebra and Their Representations](https://dasdaa144885178-ai.github.io/files/Lie_Algebra.pdf)
 
 [Elliptic Curves](https://dasdaa144885178-ai.github.io/files/EC_sheet.pdf)
-<div align="center">
 
-![Non-projective complete toric varieties](https://dasdaa144885178-ai.github.io/images/NonProj.png)
+![Non-projective](https://dasdaa144885178-ai.github.io/images/NonProj.png)
 
-*non-projective complete toric variety*
-
-</div>
+*Non-projective complete toric variety*
 
 ## **Contact**
 Please contact me by *dasdaa144885178 at gmail dot com*  if you have an interest
