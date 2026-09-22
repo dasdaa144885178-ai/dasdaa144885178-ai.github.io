@@ -15,11 +15,18 @@ My research interest lies in Arithmetic and algebraic geometry. More specificall
 
 [Adapted Cauchy--Liouville--Mirimanoff polynomials and the Tate--Oort group scheme TO_n for n>=1(Joint with Prof. Miles Reid)]
 
+## **Some Writing Stuff**
+Part iii expository essay:[Abelian Varieties over Finite Fields]
 
+Topics covered: Abelian varieties with complex multiplication, Tate's isogeny theorem, good reduction and Neron-Ogg-Shafarevich Criterion, Shimura-Taniyama Formula, Honda-Tate theorem, p-Divisible Groups, Serre-Tate theorem, canonical lifts for ordinary abelian varieties
+
+[Notes on algebraic groups 1]
 ## **Revision Notes at Cambridge**
 
 [Algebraic Geometry](https://dasdaa144885178-ai.github.io/files/AG_sheet.pdf)      
 
 [Non-commutative Noethereian Rings](https://dasdaa144885178-ai.github.io/files/NNR_sheet.pdf)
 
+[Lie Algebra and Their Representations](https://dasdaa144885178-ai.github.io/files/Lie_Algebra.pdf)
 
+[Elliptic Curves](https://dasdaa144885178-ai.github.io/files/EC_sheet.pdf)
