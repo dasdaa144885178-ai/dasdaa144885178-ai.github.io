@@ -41,4 +41,4 @@ Topics covered: Abelian varieties with complex multiplication, Tate's isogeny th
 ## **Contact**
 Please contact me by *dasdaa144885178 at gmail dot com*  if you have an interest
 
-"Two gin-scented tears trickled down the sides of his nose. But it was all right, everything was all right, the struggle was finished. He had won the victory over himself. He loved Big Brother"
+>"Two gin-scented tears trickled down the sides of his nose. But it was all right, everything was all right, the struggle was finished. He had won the victory over himself. He loved Big Brother"
