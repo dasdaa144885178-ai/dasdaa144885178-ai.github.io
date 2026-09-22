@@ -33,7 +33,7 @@ Topics covered: Abelian varieties with complex multiplication, Tate's isogeny th
 
 ![Non-projective](https://dasdaa144885178-ai.github.io/images/NonProj.png)
 
-*Non-projective complete toric variety*
+[*Non-projective complete toric variety*](https://www.math.kyoto-u.ac.jp/~fujino/toric-projectivity09.pdf)
 
 ## **Contact**
 Please contact me by *dasdaa144885178 at gmail dot com*  if you have an interest
