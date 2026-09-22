@@ -20,7 +20,7 @@ Part iii expository essay: [Abelian Varieties over Finite Fields](https://dasdaa
 
 Topics covered: Abelian varieties with complex multiplication, Tate's isogeny theorem, good reduction and Neron-Ogg-Shafarevich Criterion, Shimura-Taniyama Formula, Honda-Tate theorem, p-Divisible Groups, Serre-Tate theorem, canonical lifts for ordinary abelian varieties
 
-[Notes on algebraic groups 1](https://dasdaa144885178-ai.github.io/files/Aglgrp_1.pdf)
+[Notes on algebraic groups 1](https://dasdaa144885178-ai.github.io/files/Aglgrp_1.pdf) reference: *Linear Algbraic Group* by T.A.Springer
 ## **Revision Notes at Cambridge**
 
 [Algebraic Geometry](https://dasdaa144885178-ai.github.io/files/AG_sheet.pdf)      
@@ -34,6 +34,11 @@ Topics covered: Abelian varieties with complex multiplication, Tate's isogeny th
 
 ![Non-projective complete toric varieties](https://dasdaa144885178-ai.github.io/images/NonProj.png)
 
-
+*non-projective complete toric variety*
 
 </div>
+
+## **Contact**
+Please contact me by *dasdaa144885178 at gmail dot com*  if you have an interest
+
+"Two gin-scented tears trickled down the sides of his nose. But it was all right, everything was all right, the struggle was finished. He had won the victory over himself. He loved Big Brother"
