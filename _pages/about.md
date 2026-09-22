@@ -18,7 +18,7 @@ My research interest lies in Arithmetic and algebraic geometry. More specificall
 
 **Revision Notes at Cambridge**
 
-[Algebraic Geometry](files/AG_sheet.pdf)   [Non-commutative Noethereian Rings]
+[Algebraic Geometry](https://dasdaa144885178-ai.github.io/files/AG_sheet.pdf)   [Non-commutative Noethereian Rings](https://dasdaa144885178-ai.github.io/files/NNR_sheet.pdf)
 
 
 For those users that need more advanced functionality, the template also supports the following popular tools:
