@@ -32,7 +32,7 @@ Topics covered: Abelian varieties with complex multiplication, Tate's isogeny th
 [Elliptic Curves](https://dasdaa144885178-ai.github.io/files/EC_sheet.pdf)
 <div align="center">
 
-![Non-projective complete toric varieties](images\Screenshot 2026-09-22 050811.png)
+![Non-projective complete toric varieties](https://dasdaa144885178-ai.github.io\images\Screenshot2026-09-22050811.png)
 
 
 
